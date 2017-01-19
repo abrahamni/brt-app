@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_article"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="mobile.tracker.bribe.com.bribetracker.acitivities.ResponseDetailsActivity"
+    tools:showIn="@layout/activity_news_details">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        >
+
+
+    <TextView
+        android:id="@+id/tvNewsBody"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="ad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd  asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd a asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd a asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd aasd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada sad adasasd asd asasasdasdadada s"
+        />
+
+    </android.support.v4.widget.NestedScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Bribe Tracker</string>
+    <string name="loading">Loading</string>
+    <string name="close">close</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latest_responses">Latest Responses</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="thank_you">Thank you</string>
+    <string name="your_claim_was_sent_nsuccessfully">Your claim was sent\nsuccessfully.</string>
+    <string name="return_to_main_page">Return to main page</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="select_a_government_area">SELECT A GOVERNMENT AREA</string>
+    <string name="select_reason_for_bribe">select reason for bribe</string>
+    <string name="did_you_pay_bribe">Did you pay bribe?</string>
+    <string name="proceed">Proceed</string>
+    <string name="title">Title</string>
+    <string name="indicate_amount">Indicate Amount</string>
+    <string name="date">Date</string>
+    <string name="select_city">select city</string>
+    <string name="your_text_here">your text here</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="name_surname">name/surname</string>
+    <string name="i_d_like_to_stay_anonimous">I\'d like to stay anonymous</string>
+    <string name="all_fields_validation">Fill All fields</string>
+    <string name="validation_date">Please Choose Date</string>
+    <string name="validation_city">Please Choose City</string>
+    <string name="validation_reason">Please Choose Reason</string>
+    <string name="validation_government_area">Please Choose Government Area</string>
+    <string name="validation_amount">Please specify amount</string>
+    <string name="connection_problem">Connection with server problem</string>
+    <string name="validation_email">Please specify email</string>
+    <string name="error_while_sending_data">Error occurred while sending the form, please retry</string>
+    <string name="validate_email_format">Email is not in correct format</string>
+    <string name="internet_connection_problem">Internet connection problem, cannot load last responses</string>
+    <string name="retry">Retry</string>
+    <string name="data_sending_error">Error occurred while sending data, please check information</string>
+</resources>

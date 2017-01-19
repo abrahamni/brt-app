@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/form_content_side_paddings"
+    android:paddingRight="@dimen/form_content_side_paddings">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none"
+        >
+
+        <LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+
+            tools:context="mobile.tracker.bribe.com.bribetracker.fragments.QuestionOneFragment">
+
+            <TextView
+                android:id="@+id/textView"
+                style="@style/QuestionBlockStyle"
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:text="@string/did_you_pay_bribe"
+                android:textSize="21sp" />
+
+            <LinearLayout
+                android:id="@+id/llAnswers"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView">
+
+                <TextView
+                    android:id="@+id/tvYes"
+                    style="@style/AnswerBlockStyle"
+                    android:layout_width="0dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_weight="1"
+                    android:text="@string/answer_yes" />
+
+                <TextView
+                    android:id="@+id/tvNo"
+                    style="@style/AnswerBlockStyle"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="@string/answer_no" />
+
+            </LinearLayout>
+
+            <mobile.tracker.bribe.com.bribetracker.custom_ui.ListPickerTextView
+                android:id="@+id/tvGovenrmentArea"
+                style="@style/EditTextStyle"
+                android:hint="@string/select_a_government_area" />
+
+            <mobile.tracker.bribe.com.bribetracker.custom_ui.ListPickerTextView
+                android:id="@+id/tvRason"
+                style="@style/EditTextStyle"
+                android:hint="@string/select_reason_for_bribe" />
+
+            <mobile.tracker.bribe.com.bribetracker.custom_ui.ListPickerTextView
+                android:id="@+id/tvCity"
+                style="@style/EditTextStyle"
+                android:hint="@string/select_city" />
+
+            <mobile.tracker.bribe.com.bribetracker.custom_ui.DatePickerTextView
+                android:id="@+id/tvDate"
+                style="@style/EditTextStyle"
+                android:hint="@string/date" />
+
+            <EditText
+                android:id="@+id/etAmount"
+                style="@style/EditTextStyle"
+                android:inputType="number"
+                android:hint="@string/indicate_amount" />
+        </LinearLayout>
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tvProceed"
+        style="@style/ButtonStyle"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="6dp"
+        android:text="@string/proceed" />
+</LinearLayout>

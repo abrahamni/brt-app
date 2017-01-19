@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_9298cea7cc11f4a55c2d3ad076d98cdc83035826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_0e88b7ec64910d9935781f21e4bceeb83fef233f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_d00f4d47edf401b532a93bb4be50fe0f66c36cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_554c013f327592ce4c74b5bf6afd784aca41ada7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\okio-1.6.0_b69f29dd364893004cb9abf71ab7f260a0569de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_5764ae6e7a2c564fea6527bfc146e50242c89851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_05a082ec0bcfc9efa3075f6b249dcd768d1bdc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_cd2b4eefd486eb6f2143bf968864dc3df41cc674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_129987c8a0a81ccdd5e09f7ecd08dc5f9e6e4a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_8228f38a5744cec0213c57324874fe5f2bfe9b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\percent\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b10d60271c8298c59316050648bd9bb7adc5019a">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-percent-24.2.0_d50cd75e3cbd50f8f4cd1df9d1094ebcd4bd3239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha9_eb4e98e1d2d960cc387df60a3ad9d005c9cea6c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_a03a179778f272f4cdc83b186bbc46a575de28a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_03eec72daa3548de05cb3ee86a9238fc448de3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.0.0-RC1\83fed2e3554b8bacf8209bc22b62d76d4f674533\logging-interceptor-3.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="83fed2e3554b8bacf8209bc22b62d76d4f674533">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.0.0-RC1_2ba85a55934d4f95da773f19b5947228ce05c667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_368aa5a383ae20be9a7a75448ecde26f25fb4ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_8d4b545b18ed2c3545f1d0d02b3f09d8d3b81eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_e2bad887e312b86b2de509956fcd7d01de6bc5d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android-SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha9_0d7e8411c74f6ab91e512d86e2460580ef7a7767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1acb9e50b911d1f4f6e9b92cbf65bc8b7bc1a137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_4f81f13b78eec28c730a4edca19c9d5c26825fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_fe3bdd4caa99d05ab06a0dbea5fdad0b598ba4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_e82f1c8437718c19393f86ddde4419ebeb98e4f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_ed709bb3a3808c742abec46dcb757efc35a317ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_99029fb949dfe703a2633fffbfe5bdb7904c0b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_ccd4283b1d064ee807f605bc91ada638aecd5188.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_c53b2338c5a19faaad7e42d6db1c70dcf38b00bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0_b2a14f8e29c257742f45a22f9c4a1301cf612e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_a7d221ad4128b7ddac0b80e052fedf67011f1a05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_b79f22e41416f4959a09a166dd8560a50fcc711f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mikheil\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c283cc4a67bbe569aa19c7fd457e1993e12bf9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="D:\Dropbox\Android\Private\Bribe Tracker\BribeTracker\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_59f37f49c42ce9fb12f3362f10574627f6364647.jar" />
+    </item>
+
+</items>
